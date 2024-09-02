@@ -773,4 +773,8 @@ Paires HAUTE DISPONIBILITÉ : 18 dans un nœud ^1^</block>
   <block id="4d90d21642c7222312363da000d7409f" category="inline-link">Afficher la liste des bogues corrigés dans le correctif P6</block>
   <block id="bc5568aec017ad2e5cf0a5e90091f4c6" category="paragraph"><block ref="c6ea3d1829515f9d3bb15b101f831fb6" category="inline-link-rx"></block> (Identifiant du site du support NetApp requis).</block>
   <block id="b710bbf07a9ba1fa06f2e6f4e77a42db" category="paragraph">Les bandes passantes présentées dans le tableau ci-dessous correspondent aux limites AWS documentées pour chaque type d'instance. Ces limites ne sont pas complètement alignées sur les solutions qu'offre Cloud Volumes ONTAP. Pour connaître les performances attendues, reportez-vous<block ref="c23654021de34c23e6d408104aa3bf49" category="inline-link-rx"></block>à la .</block>
+  <block id="890194399bbc46a6d256318488025c18" category="section-title">9.14.1 P7 (29 août 2024)</block>
+  <block id="85575f1cf17c6f7c0cff15bbac0fda4b" category="paragraph">Le correctif 9.14.1 P7 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.</block>
+  <block id="7fa6a95154192207488dcc8bf13f9366" category="inline-link">Afficher la liste des bogues corrigés dans le correctif P7</block>
+  <block id="d02197ad3a3d980855960fa6ac44486e" category="paragraph"><block ref="dfa426c84f3d8dcbde32f8f8c07879b3" category="inline-link-rx"></block> (Identifiant du site du support NetApp requis).</block>
 </blocks>
