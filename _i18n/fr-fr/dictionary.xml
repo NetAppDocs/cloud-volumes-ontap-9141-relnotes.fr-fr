@@ -777,4 +777,8 @@ Paires HAUTE DISPONIBILITÉ : 18 dans un nœud ^1^</block>
   <block id="85575f1cf17c6f7c0cff15bbac0fda4b" category="paragraph">Le correctif 9.14.1 P7 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.</block>
   <block id="7fa6a95154192207488dcc8bf13f9366" category="inline-link">Afficher la liste des bogues corrigés dans le correctif P7</block>
   <block id="d02197ad3a3d980855960fa6ac44486e" category="paragraph"><block ref="dfa426c84f3d8dcbde32f8f8c07879b3" category="inline-link-rx"></block> (Identifiant du site du support NetApp requis).</block>
+  <block id="ce51d14c907d98eae856d66d441de926" category="section-title">9.14.1 P8 (29 octobre 2024)</block>
+  <block id="165dcfb526b6d1d3039c36417f4c9d22" category="paragraph">Le correctif 9.14.1 P8 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.</block>
+  <block id="a5757ef07045a814bda504c5b48177c6" category="inline-link">Afficher la liste des bogues corrigés dans le correctif P8</block>
+  <block id="883b2723fa4c7efe9f12fa9fbf8137ab" category="paragraph"><block ref="69dd6d0b993534cd7fb8846b6ef20239" category="inline-link-rx"></block> (Identifiant du site du support NetApp requis).</block>
 </blocks>
