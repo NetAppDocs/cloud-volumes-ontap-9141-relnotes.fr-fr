@@ -752,7 +752,6 @@ Paires HAUTE DISPONIBILITÉ : 18 dans un nœud ^1^</block>
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">Communauté NetApp</block>
   <block id="bd5465eb0e8cf8f303aee7ea9420c8b1" category="sidebar">Blog BlueXP</block>
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">Webinaires sur le cloud</block>
-  <block id="da38098873cb3db962a9491ab33ff93d" category="sidebar">Accueil des notes de mise à jour</block>
   <block id="4847e034bb0a55fcbc8a3380d6a3ab80" category="sidebar">AWS</block>
   <block id="3a580f142203677f1f0bc30898f63f53" category="sidebar">Azure</block>
   <block id="482723983a4f2af954e36ff41e567451" category="sidebar">Limites connues</block>
@@ -781,4 +780,9 @@ Paires HAUTE DISPONIBILITÉ : 18 dans un nœud ^1^</block>
   <block id="165dcfb526b6d1d3039c36417f4c9d22" category="paragraph">Le correctif 9.14.1 P8 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.</block>
   <block id="a5757ef07045a814bda504c5b48177c6" category="inline-link">Afficher la liste des bogues corrigés dans le correctif P8</block>
   <block id="883b2723fa4c7efe9f12fa9fbf8137ab" category="paragraph"><block ref="69dd6d0b993534cd7fb8846b6ef20239" category="inline-link-rx"></block> (Identifiant du site du support NetApp requis).</block>
+  <block id="6b00ba891287c66d1bdc5606dc4eebe7" category="section-title">9.14.1 P9 (25 novembre 2024)</block>
+  <block id="be2595081094ffbb550e236fddedf5e3" category="paragraph">Le correctif 9.14.1 P9 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.</block>
+  <block id="4b99ccc66c896711e2667fd1c7cc5a70" category="inline-link">Afficher la liste des bogues corrigés dans le correctif P9</block>
+  <block id="fb8ea0e4d51a0d0169a671ee181b9aaf" category="paragraph"><block ref="2b0276e874ba4b91c515b88422e5a6f6" category="inline-link-rx"></block> (Identifiant du site du support NetApp requis).</block>
+  <block id="f1786ba391739a1a365a117fb19de2ea" category="sidebar">Notes de version de Cloud Volumes ONTAP 9.14.1</block>
 </blocks>
