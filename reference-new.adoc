@@ -20,6 +20,14 @@ D'autres fonctionnalités et améliorations sont également introduites dans les
 
 
 
+== 9.14.1 P10 (20 janvier 2025)
+
+Le correctif 9.14.1 P10 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
+
+https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.14.1P10["Afficher la liste des bogues corrigés dans le correctif P10"^] (Identifiant du site du support NetApp requis).
+
+
+
 == 9.14.1 P9 (25 novembre 2024)
 
 Le correctif 9.14.1 P9 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
