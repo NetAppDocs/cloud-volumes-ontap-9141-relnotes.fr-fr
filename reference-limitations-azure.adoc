@@ -41,4 +41,4 @@ Vous pouvez choisir l'absence d'efficacité du stockage lors de la création d'u
 
 Les paires HAUTE DISPONIBILITÉ ne sont pas prises en charge dans certaines régions.
 
-https://cloud.netapp.com/cloud-volumes-global-regions["Affichez la liste des régions Azure prises en charge"^].
+https://bluexp.netapp.com/cloud-volumes-global-regions["Affichez la liste des régions Azure prises en charge"^].
